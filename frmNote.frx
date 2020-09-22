@@ -1,0 +1,3 @@
+ûIf you use the SocketWrench control in ANY of your projects, you MUST include the 
+module 'modConstants.bas' that has been packaged with this program. This module 
+contains the SocketWrench's Constants, and are required for the socket to function.

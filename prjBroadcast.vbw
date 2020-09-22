@@ -1,0 +1,4 @@
+frmMain = 22, 22, 549, 329, C, 44, 44, 457, 396, C
+frmNote = 88, 88, 488, 440, C, 22, 22, 422, 374, C
+modConstants = 0, 0, 0, 0, C
+modOpenURL = 0, 0, 0, 0, C
